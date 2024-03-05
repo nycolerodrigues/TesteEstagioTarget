@@ -1,0 +1,13 @@
+Na primeira ida a sala das lâmpadas:
+1. Ligaria o interruptor 1 e deixaria ligado por 10 minutos
+2. Desligaria o interruptor 1 e ligaria o interruptor 2 por 5 minutos
+3. Iria até a sala das lâmpadas para fazer a verificação
+
+Na sala das lâmpadas:
+1. Se a lâmpada 1 estiver acessa ou quente ao tocar, o interruptor 1 a controla. Se estiver um pouco fria ao tocar, o interruptor 1 não a controla
+2. Se a lâmpada 2 estiver acessa, o interruptor 2 a controla. Se estiver quente ao tocar, o interruptor 1 a controla. Se estiver um pouco fria ao toque, nenhum dos interruptores 1 ou 2 a controla.
+3. Se a lâmpada 3 estiver acesa, o interruptor 3 a controla. se estiver apagada, nenhum dos interruptores 1,2,3 a controla.
+
+Na segunda ida:
+1. Se ainda não consegui identificar qual interruptor controla qual lâmpada, voltarei a sala das lâmpadas e tocarei a lâmpada 2, se estiver quente ao tocar, o interruptor 1 a controla, se estuver fria, o interruptor 3 a controla.
+
